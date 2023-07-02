@@ -9,7 +9,13 @@ Poland, Warsaw
 
 [LinkedIn](https://www.linkedin.com/in/kseniya-kastsianevich-a1bb801bb/)
 
+Discord: KseniyaKastsianevich
+
 *Specialist with more than 12 years of experience in setting up work processes in the team as well as providing the customers with technical support, consulting and sales; ready to start a new career now.*
+
+# MY PROJECTS
+
+[CV Project](https://github.com/KseniyaKastsianevich/rsschool-cv)
 
 # PROFESSIONAL EXPERIENCE
 
